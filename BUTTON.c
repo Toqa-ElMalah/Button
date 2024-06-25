@@ -1,11 +1,3 @@
-/*
- * BUTTON.c
- *
- * Created: 10/23/2023 5:13:37 PM
- *  Author: DELL
- */ 
-
-
 #include "DIO.h"
 
 void Button_vInit (unsigned char portname , unsigned char pinnumber){
